@@ -1,0 +1,902 @@
+[
+    {
+        "name": "Tulsi",
+        "sunlight": "partial",
+        "space": "small",
+        "estimated_cost": 80,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Aromatic herb that prefers warm conditions and well-draining soil."
+    },
+    {
+        "name": "Mint",
+        "sunlight": "partial",
+        "space": "small",
+        "estimated_cost": 60,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Fast-growing kitchen herb; keep soil lightly moist."
+    },
+    {
+        "name": "Aloe Vera",
+        "sunlight": "bright",
+        "space": "small",
+        "estimated_cost": 100,
+        "daily_care_minutes": 2,
+        "difficulty": "easy",
+        "description": "Succulent that prefers bright light and infrequent watering."
+    },
+    {
+        "name": "Tomato",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 120,
+        "daily_care_minutes": 10,
+        "difficulty": "medium",
+        "description": "Needs several hours of sun, support and a suitably sized pot."
+    },
+    {
+        "name": "Spinach",
+        "sunlight": "partial",
+        "space": "medium",
+        "estimated_cost": 70,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Leafy vegetable suited to containers and cooler growing conditions."
+    },
+    {
+        "name": "Coriander",
+        "sunlight": "partial",
+        "space": "small",
+        "estimated_cost": 40,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Kitchen herb grown from seeds in a shallow container."
+    },
+    {
+        "name": "Fenugreek",
+        "sunlight": "partial",
+        "space": "small",
+        "estimated_cost": 30,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Quick-growing leafy herb suitable for small pots."
+    },
+    {
+        "name": "Green Chilli",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 60,
+        "daily_care_minutes": 8,
+        "difficulty": "easy",
+        "description": "Compact edible plant that grows well in a sunny container."
+    },
+    {
+        "name": "Lemongrass",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 100,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Aromatic grass that likes warmth, sunlight and room for roots."
+    },
+    {
+        "name": "Money Plant",
+        "sunlight": "bright",
+        "space": "small",
+        "estimated_cost": 70,
+        "daily_care_minutes": 2,
+        "difficulty": "easy",
+        "description": "Adaptable foliage plant for bright indirect light."
+    },
+    {
+        "name": "Spider Plant",
+        "sunlight": "bright",
+        "space": "small",
+        "estimated_cost": 120,
+        "daily_care_minutes": 3,
+        "difficulty": "easy",
+        "description": "Adaptable indoor plant that prefers well-draining potting mix."
+    },
+    {
+        "name": "Jade Plant",
+        "sunlight": "bright",
+        "space": "small",
+        "estimated_cost": 100,
+        "daily_care_minutes": 2,
+        "difficulty": "easy",
+        "description": "Succulent that needs bright light and soil that dries between watering."
+    },
+    {
+        "name": "Marigold",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 50,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Flowering plant that grows best with several hours of sunlight."
+    },
+    {
+        "name": "Okra",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 80,
+        "daily_care_minutes": 8,
+        "difficulty": "medium",
+        "description": "Warm-weather vegetable that needs sunshine and a deep container."
+    },
+    {
+        "name": "Spring Onion",
+        "sunlight": "partial",
+        "space": "small",
+        "estimated_cost": 40,
+        "daily_care_minutes": 4,
+        "difficulty": "easy",
+        "description": "Edible plant for small pots; provide moisture and good drainage."
+    },
+    {
+        "name": "Brinjal",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 100,
+        "daily_care_minutes": 10,
+        "difficulty": "medium",
+        "description": "Warm-season vegetable needing sun and a sturdy container."
+    },
+    {
+        "name": "Carrot",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 50,
+        "daily_care_minutes": 6,
+        "difficulty": "medium",
+        "description": "Needs loose deep soil and a container suited to the variety."
+    },
+    {
+        "name": "Radish",
+        "sunlight": "partial",
+        "space": "small",
+        "estimated_cost": 40,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Quick-growing root vegetable that prefers loose soil."
+    },
+    {
+        "name": "Beetroot",
+        "sunlight": "partial",
+        "space": "medium",
+        "estimated_cost": 50,
+        "daily_care_minutes": 6,
+        "difficulty": "easy",
+        "description": "Edible root and leaves; grow in loose, well-draining soil."
+    },
+    {
+        "name": "Lettuce",
+        "sunlight": "partial",
+        "space": "small",
+        "estimated_cost": 60,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Leafy crop that benefits from cooler conditions and regular moisture."
+    },
+    {
+        "name": "Amaranth",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 40,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Heat-tolerant leafy green suited to warm climates."
+    },
+    {
+        "name": "Cabbage",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 80,
+        "daily_care_minutes": 8,
+        "difficulty": "medium",
+        "description": "Needs room, sunlight and steady moisture."
+    },
+    {
+        "name": "Cauliflower",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 90,
+        "daily_care_minutes": 10,
+        "difficulty": "medium",
+        "description": "Cool-season crop requiring space and consistent care."
+    },
+    {
+        "name": "Cucumber",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 80,
+        "daily_care_minutes": 10,
+        "difficulty": "medium",
+        "description": "Climbing vegetable that needs sunlight, support and regular watering."
+    },
+    {
+        "name": "Bottle Gourd",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 70,
+        "daily_care_minutes": 10,
+        "difficulty": "medium",
+        "description": "Vigorous vine needing a trellis and ample room."
+    },
+    {
+        "name": "Bitter Gourd",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 70,
+        "daily_care_minutes": 10,
+        "difficulty": "medium",
+        "description": "Climbing vine that needs a sunny spot and support."
+    },
+    {
+        "name": "Pumpkin",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 100,
+        "daily_care_minutes": 10,
+        "difficulty": "medium",
+        "description": "Spreading vine best for a large growing area."
+    },
+    {
+        "name": "Beans",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 60,
+        "daily_care_minutes": 8,
+        "difficulty": "easy",
+        "description": "Edible beans grow well with sunlight and suitable support."
+    },
+    {
+        "name": "Peas",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 60,
+        "daily_care_minutes": 8,
+        "difficulty": "easy",
+        "description": "Cool-season crop that benefits from support as it grows."
+    },
+    {
+        "name": "Sweet Potato",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 70,
+        "daily_care_minutes": 8,
+        "difficulty": "medium",
+        "description": "Spreading edible vine that needs room and loose soil."
+    },
+    {
+        "name": "Potato",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 80,
+        "daily_care_minutes": 8,
+        "difficulty": "medium",
+        "description": "Grow in a deep container with loose soil and regular hilling."
+    },
+    {
+        "name": "Onion",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 50,
+        "daily_care_minutes": 6,
+        "difficulty": "medium",
+        "description": "Bulb crop needing sun and well-drained soil."
+    },
+    {
+        "name": "Garlic",
+        "sunlight": "full",
+        "space": "small",
+        "estimated_cost": 40,
+        "daily_care_minutes": 4,
+        "difficulty": "easy",
+        "description": "Bulb crop that prefers sunlight and well-draining soil."
+    },
+    {
+        "name": "Ginger",
+        "sunlight": "partial",
+        "space": "medium",
+        "estimated_cost": 80,
+        "daily_care_minutes": 5,
+        "difficulty": "medium",
+        "description": "Rhizome plant that prefers warmth, filtered light and moist soil."
+    },
+    {
+        "name": "Turmeric",
+        "sunlight": "partial",
+        "space": "large",
+        "estimated_cost": 80,
+        "daily_care_minutes": 5,
+        "difficulty": "medium",
+        "description": "Warm-season rhizome that prefers partial shade and moisture."
+    },
+    {
+        "name": "Lemon",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 250,
+        "daily_care_minutes": 8,
+        "difficulty": "medium",
+        "description": "Citrus plant needing sun, drainage and a large pot."
+    },
+    {
+        "name": "Guava",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 300,
+        "daily_care_minutes": 8,
+        "difficulty": "medium",
+        "description": "Can grow in a large container with sun and pruning."
+    },
+    {
+        "name": "Dwarf Pomegranate",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 350,
+        "daily_care_minutes": 8,
+        "difficulty": "medium",
+        "description": "Compact fruiting shrub that needs sun and a large pot."
+    },
+    {
+        "name": "Strawberry",
+        "sunlight": "partial",
+        "space": "medium",
+        "estimated_cost": 150,
+        "daily_care_minutes": 8,
+        "difficulty": "medium",
+        "description": "Benefits from morning sun, drainage and regular moisture."
+    },
+    {
+        "name": "Papaya",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 180,
+        "daily_care_minutes": 10,
+        "difficulty": "medium",
+        "description": "Tropical fruit plant needing warmth, sun and ample space."
+    },
+    {
+        "name": "Banana",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 250,
+        "daily_care_minutes": 10,
+        "difficulty": "medium",
+        "description": "Large tropical plant needing warmth, water and substantial space."
+    },
+    {
+        "name": "Mango (dwarf variety)",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 500,
+        "daily_care_minutes": 10,
+        "difficulty": "hard",
+        "description": "Choose a dwarf variety and a large container with good drainage."
+    },
+    {
+        "name": "Pineapple",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 120,
+        "daily_care_minutes": 4,
+        "difficulty": "easy",
+        "description": "Tropical fruit plant that prefers sun and well-draining soil."
+    },
+    {
+        "name": "Passion Fruit",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 200,
+        "daily_care_minutes": 10,
+        "difficulty": "medium",
+        "description": "Climbing fruit vine that requires a sturdy trellis."
+    },
+    {
+        "name": "Curry Leaves",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 120,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Aromatic tree-like herb suited to a sunny container."
+    },
+    {
+        "name": "Parsley",
+        "sunlight": "partial",
+        "space": "small",
+        "estimated_cost": 80,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Leafy culinary herb that prefers consistent moisture."
+    },
+    {
+        "name": "Basil",
+        "sunlight": "full",
+        "space": "small",
+        "estimated_cost": 60,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Aromatic herb that grows well with warmth and sunlight."
+    },
+    {
+        "name": "Oregano",
+        "sunlight": "full",
+        "space": "small",
+        "estimated_cost": 100,
+        "daily_care_minutes": 3,
+        "difficulty": "easy",
+        "description": "Mediterranean herb that prefers sun and well-drained soil."
+    },
+    {
+        "name": "Thyme",
+        "sunlight": "full",
+        "space": "small",
+        "estimated_cost": 100,
+        "daily_care_minutes": 3,
+        "difficulty": "medium",
+        "description": "Low-growing herb that prefers bright light and drier soil."
+    },
+    {
+        "name": "Rosemary",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 150,
+        "daily_care_minutes": 4,
+        "difficulty": "medium",
+        "description": "Woody herb needing strong light and excellent drainage."
+    },
+    {
+        "name": "Sage",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 120,
+        "daily_care_minutes": 4,
+        "difficulty": "medium",
+        "description": "Aromatic herb that prefers sunlight and well-drained soil."
+    },
+    {
+        "name": "Dill",
+        "sunlight": "full",
+        "space": "small",
+        "estimated_cost": 50,
+        "daily_care_minutes": 4,
+        "difficulty": "easy",
+        "description": "Annual herb that grows well in a sunny, sheltered spot."
+    },
+    {
+        "name": "Chives",
+        "sunlight": "partial",
+        "space": "small",
+        "estimated_cost": 70,
+        "daily_care_minutes": 4,
+        "difficulty": "easy",
+        "description": "Clumping edible herb suited to small containers."
+    },
+    {
+        "name": "Ajwain (Indian borage)",
+        "sunlight": "partial",
+        "space": "small",
+        "estimated_cost": 60,
+        "daily_care_minutes": 3,
+        "difficulty": "easy",
+        "description": "Aromatic succulent-like herb that prefers drainage and bright light."
+    },
+    {
+        "name": "Chamomile",
+        "sunlight": "full",
+        "space": "small",
+        "estimated_cost": 70,
+        "daily_care_minutes": 4,
+        "difficulty": "medium",
+        "description": "Flowering herb that prefers sun and light, well-drained soil."
+    },
+    {
+        "name": "Rose",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 180,
+        "daily_care_minutes": 8,
+        "difficulty": "medium",
+        "description": "Flowering shrub that needs sunlight, pruning and regular care."
+    },
+    {
+        "name": "Hibiscus",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 150,
+        "daily_care_minutes": 8,
+        "difficulty": "medium",
+        "description": "Tropical flowering shrub that prefers sun and moisture."
+    },
+    {
+        "name": "Jasmine",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 120,
+        "daily_care_minutes": 6,
+        "difficulty": "medium",
+        "description": "Fragrant flowering plant needing light and support for some varieties."
+    },
+    {
+        "name": "Bougainvillea",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 150,
+        "daily_care_minutes": 4,
+        "difficulty": "easy",
+        "description": "Sun-loving flowering plant that prefers well-drained soil."
+    },
+    {
+        "name": "Hibiscus (dwarf)",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 130,
+        "daily_care_minutes": 7,
+        "difficulty": "medium",
+        "description": "Compact hibiscus variety for a sunny patio or balcony."
+    },
+    {
+        "name": "Zinnia",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 40,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Bright annual flower that grows easily from seed in sun."
+    },
+    {
+        "name": "Sunflower",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 50,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Needs direct sun and a container appropriate for its variety."
+    },
+    {
+        "name": "Petunia",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 60,
+        "daily_care_minutes": 6,
+        "difficulty": "medium",
+        "description": "Flowering annual that prefers sun and regular watering."
+    },
+    {
+        "name": "Cosmos",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 40,
+        "daily_care_minutes": 4,
+        "difficulty": "easy",
+        "description": "Easy annual flower that grows well in sunny conditions."
+    },
+    {
+        "name": "Portulaca",
+        "sunlight": "full",
+        "space": "small",
+        "estimated_cost": 40,
+        "daily_care_minutes": 2,
+        "difficulty": "easy",
+        "description": "Heat-tolerant flowering succulent for sunny places."
+    },
+    {
+        "name": "Periwinkle",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 50,
+        "daily_care_minutes": 4,
+        "difficulty": "easy",
+        "description": "Heat-tolerant flowering plant for warm climates."
+    },
+    {
+        "name": "Chrysanthemum",
+        "sunlight": "partial",
+        "space": "medium",
+        "estimated_cost": 100,
+        "daily_care_minutes": 6,
+        "difficulty": "medium",
+        "description": "Flowering plant that benefits from bright light and attentive watering."
+    },
+    {
+        "name": "Peace Lily",
+        "sunlight": "bright",
+        "space": "medium",
+        "estimated_cost": 180,
+        "daily_care_minutes": 3,
+        "difficulty": "easy",
+        "description": "Indoor foliage plant preferring indirect light and evenly moist soil."
+    },
+    {
+        "name": "Snake Plant",
+        "sunlight": "bright",
+        "space": "small",
+        "estimated_cost": 150,
+        "daily_care_minutes": 2,
+        "difficulty": "easy",
+        "description": "Hardy indoor plant that tolerates low light and infrequent watering."
+    },
+    {
+        "name": "ZZ Plant",
+        "sunlight": "bright",
+        "space": "small",
+        "estimated_cost": 250,
+        "daily_care_minutes": 2,
+        "difficulty": "easy",
+        "description": "Low-maintenance indoor plant that tolerates lower light."
+    },
+    {
+        "name": "Rubber Plant",
+        "sunlight": "bright",
+        "space": "large",
+        "estimated_cost": 250,
+        "daily_care_minutes": 4,
+        "difficulty": "medium",
+        "description": "Indoor foliage plant that prefers bright indirect light."
+    },
+    {
+        "name": "Areca Palm",
+        "sunlight": "bright",
+        "space": "large",
+        "estimated_cost": 300,
+        "daily_care_minutes": 5,
+        "difficulty": "medium",
+        "description": "Indoor palm that likes bright indirect light and regular moisture."
+    },
+    {
+        "name": "Boston Fern",
+        "sunlight": "bright",
+        "space": "medium",
+        "estimated_cost": 180,
+        "daily_care_minutes": 5,
+        "difficulty": "medium",
+        "description": "Fern that prefers humidity, indirect light and evenly moist soil."
+    },
+    {
+        "name": "Philodendron",
+        "sunlight": "bright",
+        "space": "medium",
+        "estimated_cost": 180,
+        "daily_care_minutes": 3,
+        "difficulty": "easy",
+        "description": "Adaptable foliage plant suited to bright indirect light."
+    },
+    {
+        "name": "Aglaonema",
+        "sunlight": "bright",
+        "space": "medium",
+        "estimated_cost": 200,
+        "daily_care_minutes": 3,
+        "difficulty": "easy",
+        "description": "Decorative foliage plant that tolerates medium to low indirect light."
+    },
+    {
+        "name": "Dracaena",
+        "sunlight": "bright",
+        "space": "medium",
+        "estimated_cost": 220,
+        "daily_care_minutes": 3,
+        "difficulty": "easy",
+        "description": "Indoor plant that prefers indirect light and moderate watering."
+    },
+    {
+        "name": "Rubber Fig",
+        "sunlight": "bright",
+        "space": "large",
+        "estimated_cost": 250,
+        "daily_care_minutes": 4,
+        "difficulty": "medium",
+        "description": "Foliage plant that grows best in bright indirect light."
+    },
+    {
+        "name": "Calathea",
+        "sunlight": "bright",
+        "space": "medium",
+        "estimated_cost": 250,
+        "daily_care_minutes": 5,
+        "difficulty": "hard",
+        "description": "Patterned foliage plant needing indirect light and consistent moisture."
+    },
+    {
+        "name": "Syngonium",
+        "sunlight": "bright",
+        "space": "small",
+        "estimated_cost": 100,
+        "daily_care_minutes": 3,
+        "difficulty": "easy",
+        "description": "Compact climbing or trailing foliage plant for indirect light."
+    },
+    {
+        "name": "Pothos 'Neon'",
+        "sunlight": "bright",
+        "space": "small",
+        "estimated_cost": 100,
+        "daily_care_minutes": 2,
+        "difficulty": "easy",
+        "description": "Trailing foliage plant that tolerates a range of indoor conditions."
+    },
+    {
+        "name": "Peperomia",
+        "sunlight": "bright",
+        "space": "small",
+        "estimated_cost": 150,
+        "daily_care_minutes": 3,
+        "difficulty": "easy",
+        "description": "Compact indoor plant that prefers indirect light and careful watering."
+    },
+    {
+        "name": "Pilea",
+        "sunlight": "bright",
+        "space": "small",
+        "estimated_cost": 180,
+        "daily_care_minutes": 3,
+        "difficulty": "medium",
+        "description": "Compact foliage plant suited to bright indirect light."
+    },
+    {
+        "name": "Kalanchoe",
+        "sunlight": "bright",
+        "space": "small",
+        "estimated_cost": 100,
+        "daily_care_minutes": 3,
+        "difficulty": "easy",
+        "description": "Flowering succulent that needs bright light and drainage."
+    },
+    {
+        "name": "Echeveria",
+        "sunlight": "bright",
+        "space": "small",
+        "estimated_cost": 120,
+        "daily_care_minutes": 2,
+        "difficulty": "medium",
+        "description": "Rosette succulent that needs strong light and dry intervals."
+    },
+    {
+        "name": "Lavender",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 180,
+        "daily_care_minutes": 4,
+        "difficulty": "medium",
+        "description": "Needs strong sunlight, airflow and sharply draining soil."
+    },
+    {
+        "name": "Ashwagandha",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 60,
+        "daily_care_minutes": 4,
+        "difficulty": "medium",
+        "description": "Traditional medicinal herb; grow in sun and well-drained soil."
+    },
+    {
+        "name": "Brahmi",
+        "sunlight": "partial",
+        "space": "small",
+        "estimated_cost": 60,
+        "daily_care_minutes": 5,
+        "difficulty": "medium",
+        "description": "Moisture-loving herb often grown in a pot or water-rich setup."
+    },
+    {
+        "name": "Gotu Kola",
+        "sunlight": "partial",
+        "space": "small",
+        "estimated_cost": 60,
+        "daily_care_minutes": 5,
+        "difficulty": "medium",
+        "description": "Low-growing herb that prefers moisture and partial shade."
+    },
+    {
+        "name": "Indian Aloe",
+        "sunlight": "bright",
+        "space": "small",
+        "estimated_cost": 100,
+        "daily_care_minutes": 2,
+        "difficulty": "easy",
+        "description": "Succulent used traditionally; provide bright light and careful watering."
+    },
+    {
+        "name": "Giloy",
+        "sunlight": "partial",
+        "space": "large",
+        "estimated_cost": 100,
+        "daily_care_minutes": 6,
+        "difficulty": "medium",
+        "description": "Climbing medicinal vine requiring support and space."
+    },
+    {
+        "name": "Neem (container-grown)",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 200,
+        "daily_care_minutes": 6,
+        "difficulty": "medium",
+        "description": "Young neem can be grown in a large pot but eventually needs space."
+    },
+    {
+        "name": "Shatavari",
+        "sunlight": "partial",
+        "space": "large",
+        "estimated_cost": 120,
+        "daily_care_minutes": 6,
+        "difficulty": "medium",
+        "description": "Climbing or bushy medicinal plant needing support and well-drained soil."
+    },
+    {
+        "name": "Vasaka (Adhatoda)",
+        "sunlight": "partial",
+        "space": "large",
+        "estimated_cost": 150,
+        "daily_care_minutes": 5,
+        "difficulty": "medium",
+        "description": "Medicinal shrub that prefers warmth and room to grow."
+    },
+    {
+        "name": "Lemongrass (medicinal herb)",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 100,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Aromatic grass grown for leaves; likes sun and regular moisture."
+    },
+    {
+        "name": "Calendula",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 60,
+        "daily_care_minutes": 5,
+        "difficulty": "easy",
+        "description": "Flowering annual that prefers sun and cooler growing conditions."
+    },
+    {
+        "name": "Brahmi (Bacopa monnieri)",
+        "sunlight": "partial",
+        "space": "small",
+        "estimated_cost": 70,
+        "daily_care_minutes": 5,
+        "difficulty": "medium",
+        "description": "Moisture-loving creeping herb; avoid letting the growing medium dry out."
+    },
+    {
+        "name": "Coleus",
+        "sunlight": "partial",
+        "space": "medium",
+        "estimated_cost": 80,
+        "daily_care_minutes": 4,
+        "difficulty": "easy",
+        "description": "Decorative foliage plant with colorful leaves, suited to filtered light."
+    },
+    {
+        "name": "Ixora",
+        "sunlight": "full",
+        "space": "large",
+        "estimated_cost": 180,
+        "daily_care_minutes": 6,
+        "difficulty": "medium",
+        "description": "Flowering shrub that likes warmth, light and acidic well-drained soil."
+    },
+    {
+        "name": "Night-blooming Jasmine",
+        "sunlight": "partial",
+        "space": "large",
+        "estimated_cost": 150,
+        "daily_care_minutes": 5,
+        "difficulty": "medium",
+        "description": "Fragrant shrub that benefits from warmth and room to branch."
+    },
+    {
+        "name": "Dianthus",
+        "sunlight": "full",
+        "space": "medium",
+        "estimated_cost": 70,
+        "daily_care_minutes": 5,
+        "difficulty": "medium",
+        "description": "Compact flowering plant that prefers bright sun, good drainage and moderate watering."
+    }
+]
